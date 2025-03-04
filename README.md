@@ -6,6 +6,7 @@ Unfortunately, I was not able to use the necessary APIs to complete this project
 
 ## Folder Structure
 
+```bash
 sume-app/
 │── src/
 │   ├── app/
@@ -18,7 +19,7 @@ sume-app/
 │── package-lock.json
 │── package.json
 │── node_modules/
-
+```
 
 ## Development server
 
