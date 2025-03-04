@@ -2,6 +2,24 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
+Unfortunately, I was not able to use the necessary APIs to complete this project. However, there is a file called "projeto.service.ts" (located in src -> app -> services) that contains the logic I was trying to implement. I also imported this file into "app.module.ts", but many parts of my code would need to be modified.
+
+## Folder Structure
+
+sume-app/
+│── src/
+│   ├── app/
+│   │   ├── services/
+│   │   │   ├── projeto.service.ts 
+│   │   ├── app.module.ts  
+│   │   ├── app.component.ts
+│   │   ├── app.component.html
+│   │   ├── app.component.css  
+│── package-lock.json
+│── package.json
+│── node_modules/
+
+
 ## Development server
 
 To start a local development server, run:
@@ -57,3 +75,5 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+I also used this lecture material to learn some concepts of the Angular framework. Here is the link: (https://jacksongomesbr.gitbooks.io/desenvolvimento-web-front-end-com-angular/content/).
